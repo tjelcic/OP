@@ -4,7 +4,7 @@ using namespace std;
 
 void MyVector::vector_new (size_t sz)
 {
-    size=0;
+    size=sz;
     capacity=1;
     arr = new int[capacity];
 };
