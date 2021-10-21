@@ -21,10 +21,9 @@ int main()
     }
     cout << endl;
     int i;
-    cout<<"Input the array index:"<<endl;
-    cin>>i;
-    int& el=returnRef(arr,n,i);
-    el++;
-    cout<<"Element on index "<<i<<" increased by 1: "<<el<<endl;
+    cout << "Input the array index:" << endl;
+    cin >> i;
+    returnRef(arr,n,i)++;
+    cout << "Element on index "<< i << " increased by 1: " << returnRef(arr,n,i) << endl;
     return 0;
 }
