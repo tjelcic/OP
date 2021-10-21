@@ -25,8 +25,8 @@ int findOverlap(const Rectangle (&arr)[4], const Circle &c, int n)
 
     for(int i=0;i<n;i++)
     {
-        Delta.x=c.S.x - max(arr[i].a.x, min(c.S.x, arr[i].b.x));
-        Delta.y=c.S.y - max(arr[i].a.y, min(c.S.y, arr[i].b.y));
+        Delta.x=c.S.x - ((c.S.x < arr[i].a.x) ? arr[i].a.x : (c.S.x > arr[i].b.x) ? arr[i].b.x : c.S.x);
+        Delta.y=c.S.y - ((c.S.y < arr[i].a.y) ? arr[i].a.y : (c.S.x > arr[i].b.y) ? arr[i].b.y : c.S.y);
 
         if((Delta.x * Delta.x + Delta.y * Delta.y) <= c.r * c.r)
         {
