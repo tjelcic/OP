@@ -63,6 +63,6 @@ void MyVector::print_vector()
     for (size_t i = 0; i < size; ++i)
     {
         cout << arr[i] << " ";
-    };
+    }
     cout << endl;
 }
