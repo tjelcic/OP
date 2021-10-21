@@ -2,15 +2,17 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     MyVector mv;
     mv.vector_new();
 
     int m;
     cout << "Input element, Ctrl+d (linux) or Ctrl+z (win) to end input." << endl;
-    while(cin >> m) {
+    while(cin >> m)
+    {
         mv.vector_push_back(m);
-    };
+    }
 
     cout << "First element: " << mv.vector_front() << endl;
     cout << "Last element: " << mv.vector_back() << endl;
@@ -23,4 +25,4 @@ int main() {
     cout << "Capacity: " << mv.capacity << endl;
 
     mv.vector_delete();
-};
+}
