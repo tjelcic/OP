@@ -7,12 +7,12 @@ void MyVector::vector_new (size_t sz)
     size=sz;
     capacity=1;
     arr = new int[capacity];
-};
+}
 
 void MyVector::vector_delete()
 {
     delete [] arr;
-};
+}
 
 void MyVector::vector_push_back(int n)
 {
@@ -29,7 +29,7 @@ void MyVector::vector_push_back(int n)
 	}
 	arr[size] = n;
 	size++;
-};
+}
 
 void MyVector::vector_pop_back()
 {
@@ -41,22 +41,22 @@ void MyVector::vector_pop_back()
 	}
 	delete [] arr;
 	arr = temp;
-};
+}
 
 int& MyVector::vector_front()
 {
     return arr[0];
-};
+}
 
 int& MyVector::vector_back()
 {
     return arr[size - 1];
-};
+}
 
 size_t MyVector::vector_size()
 {
     return size;
-};
+}
 
 void MyVector::print_vector()
 {
@@ -65,4 +65,4 @@ void MyVector::print_vector()
         cout << arr[i] << " ";
     };
     cout << endl;
-};
+}
