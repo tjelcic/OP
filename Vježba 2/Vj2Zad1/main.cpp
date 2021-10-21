@@ -23,7 +23,7 @@ int main()
     int n=sizeof(arr) / sizeof(arr[0]);
     int minn,maxx;
     findMaxMin(arr,n,minn,maxx);
-    cout<<"Min:"<<minn<<endl;
-    cout<<"Max:"<<maxx<<endl;
+    cout << "Min:" << minn << endl;
+    cout << "Max:" << maxx << endl;
     return 0;
 }
