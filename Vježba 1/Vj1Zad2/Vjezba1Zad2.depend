@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634202097 source:c:\users\tjelcic\desktop\tea\src\op\vjezba1zad2\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1634548759 source:c:\users\tjelcic\desktop\tea\src\op\vjezbe\za git\vj1zad2\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
