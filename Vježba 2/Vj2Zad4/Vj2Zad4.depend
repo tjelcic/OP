@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634805894 source:c:\users\tjelcic\desktop\tea\src\op\vjezbe\vj2zad4\main.cpp
+	"vector.hpp"
+
+1634805802 c:\users\tjelcic\desktop\tea\src\op\vjezbe\vj2zad4\vector.hpp
+	<cstddef>
+	<iostream>
+
+1634805857 source:c:\users\tjelcic\desktop\tea\src\op\vjezbe\vj2zad4\vector.cpp
+	"vector.hpp"
+
