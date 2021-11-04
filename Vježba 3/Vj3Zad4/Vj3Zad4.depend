@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635867422 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj3zad4\main.cpp
+	<iostream>
+	"header.hpp"
+
+1635867441 c:\users\tjelcic\desktop\tea\op\vjezbe\vj3zad4\header.hpp
+	<cstddef>
+	<iostream>
+	<vector>
+
+1635867465 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj3zad4\functions.cpp
+	"header.hpp"
+	<algorithm>
+

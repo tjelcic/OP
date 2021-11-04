@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1635865053 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj3zad3\functions.cpp
+	"header.hpp"
+	<algorithm>
+
+1635864814 c:\users\tjelcic\desktop\tea\op\vjezbe\vj3zad3\header.hpp
+	<cstddef>
+	<iostream>
+	<vector>
+
+1635865053 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 3\vj3zad3\functions.cpp
+	"header.hpp"
+	<algorithm>
+
+1635864814 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 3\vj3zad3\header.hpp
+	<cstddef>
+	<iostream>
+	<vector>
+
