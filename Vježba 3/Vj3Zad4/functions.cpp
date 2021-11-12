@@ -23,5 +23,5 @@ void vectorPrint(vector<int> &arr)
 
 void eraseElement(vector<int> &arr, int i)
 {
-	arr.erase(arr.begin() + i);
+    arr.erase(arr.begin() + i);
 }
