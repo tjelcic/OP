@@ -5,15 +5,15 @@ using namespace std;
 
 void printVector(vector<int> v)
 {
-	vector<int>::iterator i = v.begin();
-	vector<int>::iterator j = v.end();
+    vector<int>::iterator i = v.begin();
+    vector<int>::iterator j = v.end();
 
-	while (i != j)
+    while (i != j)
     {
-		cout << *i << " ";
-		i++;
-	}
-	cout << endl;
+        cout << *i << " ";
+        i++;
+    }
+    cout << endl;
 }
 
 vector<int>& stuffingBit(vector<int> v, vector<int>& stuff)
@@ -61,25 +61,25 @@ vector<int>& unstuffingBit(vector<int>& stuff)
 
 int main()
 {
-	vector<int> v;
-	int tmp;
-	cout << "Input binary digits:" << endl;
-	while (true)
+    vector<int> v;
+    int tmp;
+    cout << "Input binary digits:" << endl;
+    while (true)
     {
-		cin >> tmp;
-		if ((tmp == 0) || (tmp == 1))
-			v.push_back(tmp);
-		else
+        cin >> tmp;
+        if ((tmp == 0) || (tmp == 1))
+            v.push_back(tmp);
+        else
             break;
-	}
-	cout << "Your input:" << endl;
-	printVector(v);
-	vector<int> stuffed;
- 	stuffingBit(v, stuffed);
- 	cout << "Input after bit stuffing:" << endl;
-	printVector(stuffed);
-	unstuffingBit(stuffed);
-	cout << "Input after bit unstuffing:" << endl;
-	printVector(stuffed);
-	return 0;
+    }
+    cout << "Your input:" << endl;
+    printVector(v);
+    vector<int> stuffed;
+    stuffingBit(v, stuffed);
+    cout << "Input after bit stuffing:" << endl;
+    printVector(stuffed);
+    unstuffingBit(stuffed);
+    cout << "Input after bit unstuffing:" << endl;
+    printVector(stuffed);
+    return 0;
 }
