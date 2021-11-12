@@ -7,8 +7,8 @@ using namespace std;
 int substringCount (string &s, string &subs)
 {
     int cnt = 0;
-	int i = 0;
-	for(;;)
+    int i = 0;
+    for(;;)
     {
         i = s.find(subs, i);
         if (i == string::npos)
@@ -16,7 +16,7 @@ int substringCount (string &s, string &subs)
         cnt++;
         i += subs.size();
     }
-	return cnt;
+    return cnt;
 }
 
 int main()
