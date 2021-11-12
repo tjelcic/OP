@@ -16,31 +16,31 @@ void MyVector::vector_delete()
 
 void MyVector::vector_push_back(int n)
 {
-	if (size == capacity)
-	{
-		int* temp = new int[capacity*2];
-		for (int i = 0; i < capacity; ++i)
-		{
-			temp[i] = arr[i];
-		}
-		capacity *= 2;
-		delete [] arr;
-		arr = temp;
-	}
-	arr[size] = n;
-	size++;
+    if (size == capacity)
+    {
+        int* temp = new int[capacity*2];
+        for (int i = 0; i < capacity; ++i)
+        {
+            temp[i] = arr[i];
+        }
+        capacity *= 2;
+        delete [] arr;
+        arr = temp;
+    }
+    arr[size] = n;
+    size++;
 }
 
 void MyVector::vector_pop_back()
 {
-	size--;
-	int* temp = new int[capacity];
-	for (int i = 0; i < size; ++i)
-	{
-		temp[i] = arr[i];
-	}
-	delete [] arr;
-	arr = temp;
+    size--;
+    int* temp = new int[capacity];
+    for (int i = 0; i < size; ++i)
+    {
+        temp[i] = arr[i];
+    }
+    delete [] arr;
+    arr = temp;
 }
 
 int& MyVector::vector_front()
