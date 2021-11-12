@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636381578 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj4zad2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<time.h>
+
