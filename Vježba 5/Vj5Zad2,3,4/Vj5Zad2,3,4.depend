@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637258374 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj5zad2,3,4\functions.cpp
+	<iostream>
+	"header.hpp"
+	<cstdlib>
+	<math.h>
+
+1637258427 c:\users\tjelcic\desktop\tea\op\vjezbe\vj5zad2,3,4\header.hpp
+
+1637838140 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj5zad2,3,4\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<random>
+
+1637840868 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 5\vj5zad2,3,4\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<random>
+

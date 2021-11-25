@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636970085 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj5zad1\functions.cpp
+	"header.hpp"
+	<cstdlib>
+	<math.h>
+
+1636970085 c:\users\tjelcic\desktop\tea\op\vjezbe\vj5zad1\header.hpp
+
+1637835258 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj5zad1\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+
