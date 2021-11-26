@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637915906 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 6\hangman.cpp
+	"header.hpp"
+	<cctype>
+	<cstring>
+	<fstream>
+	<time.h>
+
+1637875293 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 6\header.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1637875301 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 6\main.cpp
+	"header.hpp"
+
