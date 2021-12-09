@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639079215 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 7\main.cpp
+	"header.hpp"
+
+1639045216 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 7\header.hpp
+	<iostream>
+	<cmath>
+
