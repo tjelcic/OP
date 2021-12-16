@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1639650942 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 8\functions.cpp
+	"header.hpp"
+
+1639651399 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 8\header.hpp
+	<iostream>
+
+1639651257 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 8\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"header.hpp"
+
