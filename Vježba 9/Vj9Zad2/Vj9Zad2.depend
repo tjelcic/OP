@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1642068760 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad2\animal.cpp
+	"Animal.h"
+
+1642068727 c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad2\animal.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+
+1642073768 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad2\main.cpp
+	<iostream>
+	"Animal.h"
+
+1642074127 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad2\animal.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+
+1642074127 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad2\animal.cpp
+	"Animal.h"
+
+1642074170 source:d:\tea\op\vjezbe\vježba 9\vj9zad2\main.cpp
+	<iostream>
+	"Animal.h"
+
+1642097466 d:\tea\op\vjezbe\vježba 9\vj9zad2\animal.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+

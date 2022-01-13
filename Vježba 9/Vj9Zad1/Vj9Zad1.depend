@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1642067207 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\computerplayer.cpp
+	"ComputerPlayer.h"
+
+1642067186 c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\computerplayer.h
+	<ctime>
+	<random>
+	"Player.h"
+
+1642067102 c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\player.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+
+1642067247 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\game.cpp
+	"Game.h"
+
+1642067227 c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\game.h
+	"Player.h"
+
+1642067291 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\main.cpp
+	<string>
+	"Game.h"
+	"HumanPlayer.h"
+	"ComputerPlayer.h"
+
+1642067144 c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\humanplayer.h
+	"Player.h"
+
+1642067123 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\player.cpp
+	"Player.h"
+
+1642067505 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj9zad1\humanplayer.cpp
+	"HumanPlayer.h"
+
+1642068172 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\computerplayer.cpp
+	"ComputerPlayer.h"
+
+1642068171 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\computerplayer.h
+	<ctime>
+	<random>
+	"Player.h"
+
+1642068171 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\player.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+
+1642091649 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\game.cpp
+	"Game.h"
+
+1642074450 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\game.h
+	"Player.h"
+
+1642074678 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\humanplayer.cpp
+	"HumanPlayer.h"
+
+1642068171 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\humanplayer.h
+	"Player.h"
+
+1642093435 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\main.cpp
+	<string>
+	"Game.h"
+	"HumanPlayer.h"
+	"ComputerPlayer.h"
+
+1642074460 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 9\vj9zad1\player.cpp
+	"Player.h"
+
+1642068174 source:d:\tea\op\vjezbe\vježba 9\vj9zad1\computerplayer.cpp
+	"ComputerPlayer.h"
+
+1642068172 d:\tea\op\vjezbe\vježba 9\vj9zad1\computerplayer.h
+	<ctime>
+	<random>
+	"Player.h"
+
+1642068172 d:\tea\op\vjezbe\vježba 9\vj9zad1\player.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+
+1642091650 source:d:\tea\op\vjezbe\vježba 9\vj9zad1\game.cpp
+	"Game.h"
+
+1642074452 d:\tea\op\vjezbe\vježba 9\vj9zad1\game.h
+	"Player.h"
+
+1642074680 source:d:\tea\op\vjezbe\vježba 9\vj9zad1\humanplayer.cpp
+	"HumanPlayer.h"
+
+1642068172 d:\tea\op\vjezbe\vježba 9\vj9zad1\humanplayer.h
+	"Player.h"
+
+1642093436 source:d:\tea\op\vjezbe\vježba 9\vj9zad1\main.cpp
+	<string>
+	"Game.h"
+	"HumanPlayer.h"
+	"ComputerPlayer.h"
+
+1642074462 source:d:\tea\op\vjezbe\vježba 9\vj9zad1\player.cpp
+	"Player.h"
+
