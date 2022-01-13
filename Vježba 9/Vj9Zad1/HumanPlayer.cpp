@@ -21,7 +21,7 @@ void HumanPlayer::chooseCoins()
         cout << "Pick a number of coins from 0 to 3 (included): ";
         cin >> coinCnt;
     }
-    while (coinCnt < 0 && coinCnt > 3);
+    while (coinCnt < 0 || coinCnt > 3);
 
     for (int i = 0; i < coinCnt; ++i)
     {
@@ -41,7 +41,7 @@ void HumanPlayer::chooseCoins()
 
         sum += choice;
         hand.push_back(choice);
-        coins.erase(pos); // Delete picked coin
+        coins.erase(pos);
     }
 
     Player::setHandSum(sum);

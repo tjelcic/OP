@@ -60,7 +60,7 @@ void Game::playGame()
         }
         if (!flag)
         {
-            cout << " Nobody guessed this round.";
+            cout << " Nobody guessed.";
         }
         cout << endl << endl;;
     }
