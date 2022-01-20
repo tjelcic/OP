@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1642614702 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad2\main.cpp
+	"stack.cpp"
+	<type_traits>
+
+1642614090 c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad2\stack.cpp
+	"stack.hpp"
+
+1642614331 c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad2\stack.hpp
+	<iostream>
+	<algorithm>
+	<iterator>
+
+1642614090 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad2\stack.cpp
+	"stack.hpp"
+
+1642709628 source:d:\tea\op\vjezbe\vježba 10\vj10zad2\main.cpp
+	"stack.cpp"
+
+1642709600 d:\tea\op\vjezbe\vježba 10\vj10zad2\stack.cpp
+	"stack.hpp"
+
+1642709678 d:\tea\op\vjezbe\vježba 10\vj10zad2\stack.hpp
+	<iostream>
+
+1642709600 source:d:\tea\op\vjezbe\vježba 10\vj10zad2\stack.cpp
+	"stack.hpp"
+

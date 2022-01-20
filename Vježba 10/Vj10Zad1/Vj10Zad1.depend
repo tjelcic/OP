@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642617655 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad1\main.cpp
+	<tuple>
+	"template.h"
+
+1642615865 c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad1\template.cpp
+	<iostream>
+
+1642617841 c:\users\tjelcic\desktop\tea\op\vjezbe\vj10zad1\template.h
+	<iostream>
+
