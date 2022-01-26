@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1643192963 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 11\main.cpp
+	"exception.h"
+	"functions.h"
+
+1643191294 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 11\exception.h
+	<iostream>
+
+1643192791 c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 11\functions.h
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<iterator>
+
+1643193012 source:c:\users\tjelcic\desktop\tea\op\vjezbe\vježba 11\functions.cpp
+	"exception.h"
+	"functions.h"
+
